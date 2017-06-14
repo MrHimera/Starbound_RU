@@ -25,20 +25,13 @@
         "obisidiancorelayer.biome.json": 1
       },
       "space": {
-        "asteroids.biome.json": 1,
         "barrenasteroids.biome.json": 1,
         "space.biome.json": 1
       },
       "surface": {
-        "alien.biome.json": 1,
-        "arctic.biome.json": 1,
         "arcticoceanfloor.biome.json": 1,
-        "barren.biome.json": 1,
-        "desert.biome.json": 1,
         "earth.biome.json": 1,
-        "forest.biome.json": 1,
         "garden.biome.json": 1,
-        "jungle.biome.json": 1,
         "magma.biome.json": 1,
         "magmaoceanfloor.biome.json": 1,
         "midnight.biome.json": 1,
@@ -46,15 +39,11 @@
         "oceanfloor.biome.json": 1,
         "oceanmission.biome.json": 1,
         "outpost.biome.json": 1,
-        "savannah.biome.json": 1,
         "scorched.biome.json": 1,
         "scorchedcity.biome.json": 1,
         "shared_.biome.json": 1,
         "tentacle.biome.json": 1,
-        "toxic.biome.json": 1,
         "toxicoceanfloor.biome.json": 1,
-        "tundra.biome.json": 1,
-        "volcanic.biome.json": 1,
         "volcanicterraform.biome.json": 1
       },
       "surface_detached": {
@@ -354,7 +343,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 33,
       "combat.config.json": 179,
-      "converse.config.json": 1229,
+      "converse.config.json": 1251,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -398,7 +387,7 @@
       "shared_lightbulb.json": 1
     },
     "glitchEmotes.json": 354,
-    "help.config.json": 59,
+    "help.config.json": 62,
     "hunger.config.json": 15,
     "interface": {
       "ai": {
@@ -420,7 +409,7 @@
         "shared_.config.json": 2
       },
       "cockpit": {
-        "cockpit.config.json": 61
+        "cockpit.config.json": 154
       },
       "confirmation": {
         "hiremercenaryconfirmation.config.json": 2,
@@ -437,7 +426,7 @@
         "signstoregui.config.json": 2
       },
       "expandstation": {
-        "expandstation.config.json": 3
+        "expandstation.config.json": 10
       },
       "fuel": {
         "fuel.config.json": 2
@@ -459,7 +448,7 @@
         "optionsmenu.config.json": 9
       },
       "placestation": {
-        "placestation.config.json": 10
+        "placestation.config.json": 14
       },
       "questtracker": {
         "questtracker.config.json": 1
@@ -3467,7 +3456,7 @@
       },
       "liquids": {
         "healingwater.liqitem.json": 2,
-        "lava.liqitem.json": 2,
+        "lava.liqitem.json": 1,
         "liquidfuel.liqitem.json": 2,
         "milk.liqitem.json": 2,
         "oil.liqitem.json": 2,
@@ -4999,7 +4988,7 @@
           "shared_ancientlight.json": 7
         },
         "shared_ancientpot": {
-          "shared_ancientpot.json": 5
+          "shared_ancientpot.json": 6
         },
         "shared_ancientstriplight": {
           "shared_ancientstriplight.json": 9
@@ -10669,13 +10658,13 @@
           "saloontable.object.json": 0
         },
         "saloontumbler": {
-          "saloontumbler.object.json": 0
+          "saloontumbler.object.json": 3
         },
         "wagonwheel": {
-          "wagonwheel.object.json": 0
+          "wagonwheel.object.json": 4
         },
         "wantedposter": {
-          "wantedposter.object.json": 0
+          "wantedposter.object.json": 2
         }
       },
       "obstacles": {
@@ -13060,7 +13049,7 @@
         "templates": {
           "add_object_to_house.questtemplate.json": 23,
           "barter.questtemplate.json": 7,
-          "borrow.questtemplate.json": 10,
+          "borrow.questtemplate.json": 24,
           "bribe.questtemplate.json": 4,
           "build_home.questtemplate.json": 22,
           "capture_pet.questtemplate.json": 46,
@@ -13100,13 +13089,13 @@
       },
       "generated.json": 1,
       "other": {
-        "transponder.questtemplate.json": 0
+        "transponder.questtemplate.json": 3
       },
       "outpost": {
         "floranarena1.questtemplate.json": 3,
         "floranarena2.questtemplate.json": 3,
         "floranarena3.questtemplate.json": 3,
-        "mechunlock.questtemplate.json": 0,
+        "mechunlock.questtemplate.json": 5,
         "mechupgrade1.questtemplate.json": 0,
         "mechupgrade2.questtemplate.json": 0,
         "museumcurator1.questtemplate.json": 3,
@@ -13119,7 +13108,7 @@
         "penguin1.questtemplate.json": 7,
         "penguin2.questtemplate.json": 2,
         "protectoratesword.questtemplate.json": 4,
-        "shared_.questtemplate.json": 8,
+        "shared_.questtemplate.json": 9,
         "shipupgrade": {
           "illegalshipupgrade1.questtemplate.json": 2,
           "illegalshipupgrade2.questtemplate.json": 2,
@@ -13174,7 +13163,7 @@
     "radiomessages": {
       "exploration.radiomessages.json": 7,
       "intro.radiomessages.json": 16,
-      "mech.radiomessages.json": 0,
+      "mech.radiomessages.json": 13,
       "missions.radiomessages.json": 56,
       "quests.radiomessages.json": 6,
       "ship.radiomessages.json": 3,
@@ -13207,7 +13196,7 @@
     "shared_ice..json": 1,
     "shared_ies.json": 1,
     "shared_ing.json": 1,
-    "shared_interface.json": 1,
+    "shared_interface.json": 2,
     "shared_key.json": 1,
     "shared_lunarbaseplatform.mat.json": 5,
     "shared_merchant..json": 1,
@@ -13361,7 +13350,7 @@
           "nude.statuseffect.json": 1
         },
         "overload": {
-          "overload.statuseffect.json": 0
+          "overload.statuseffect.json": 1
         },
         "paralysis": {
           "paralysis.statuseffect.json": 1
@@ -13527,6 +13516,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 52
+    "wide_spread_fields.json": 64
   }
 }
