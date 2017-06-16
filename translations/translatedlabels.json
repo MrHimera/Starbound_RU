@@ -343,7 +343,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 33,
       "combat.config.json": 179,
-      "converse.config.json": 1270,
+      "converse.config.json": 1288,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -479,7 +479,7 @@
           "mmupgradegui.config.json": 22
         },
         "playerstationconsole": {
-          "playerstationconsolegui.config.json": 0
+          "playerstationconsolegui.config.json": 4
         },
         "sbvn": {
           "sbvngui.config.json": 2
@@ -13401,7 +13401,7 @@
         }
       }
     },
-    "system_objects.config.json": 0,
+    "system_objects.config.json": 15,
     "tech": {
       "dash": {
         "airdash.tech.json": 2,
