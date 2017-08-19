@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/tenants/glitchcastle.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am minor royalty! It would be wise to treat me well.",
+      "Rus": "Я младший член королевской семьи! Было бы мудро относится ко мне как следует."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchcastle.npctype": [
         "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
       ]
     },
@@ -70,18 +82,6 @@
     "Texts": {
       "Eng": "If you haven't any servants, who does all your chores?",
       "Rus": "Если у вас нет слуг, кто занимается всеми вашими хлопотами?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/tenants/glitchcastle.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "Self-important. I am minor royalty! It would be wise to treat me well.",
-      "Rus": "Важно. Я незначительный роялти! Было бы целесообразно, чтобы ко мне относились хорошо."
     }
   },
   {

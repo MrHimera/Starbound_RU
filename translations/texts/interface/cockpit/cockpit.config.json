@@ -38,6 +38,20 @@
     }
   },
   {
+    "Comment": "Регулярное выражение (не для перевода, а для поддержки названий на кирилице)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/coordinatesFrame/children/x/regex",
+        "/gui/coordinatesFrame/children/y/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "-?[0-9]{0,10}",
+      "Rus": ""
+    }
+  },
+  {
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
@@ -387,7 +401,7 @@
     },
     "Texts": {
       "Eng": "Dangerous",
-      "Rus": "Опасный"
+      "Rus": "Опасно"
     }
   },
   {
@@ -449,7 +463,7 @@
     },
     "Texts": {
       "Eng": "EDIT BOOKMARK",
-      "Rus": "ИЗМЕНИТЬ ЗАКЛАДКУ"
+      "Rus": "ИЗМ. ЗАКЛАДКУ"
     }
   },
   {
@@ -462,7 +476,7 @@
     },
     "Texts": {
       "Eng": "Extreme",
-      "Rus": "Экстремальный"
+      "Rus": "Экстремально"
     }
   },
   {
@@ -654,7 +668,7 @@
     },
     "Texts": {
       "Eng": "Inconceivable",
-      "Rus": "Немыслимый"
+      "Rus": "Немыслимо"
     }
   },
   {
@@ -800,7 +814,7 @@
     },
     "Texts": {
       "Eng": "Moderate",
-      "Rus": "Умеренный"
+      "Rus": "Умеренно"
     }
   },
   {
@@ -909,7 +923,7 @@
     },
     "Texts": {
       "Eng": "PLANET TYPE",
-      "Rus": "ТИПЫ ПЛАНЕТ"
+      "Rus": "ТИП ПЛАНЕТЫ"
     }
   },
   {
@@ -1006,7 +1020,7 @@
     },
     "Texts": {
       "Eng": "Risky",
-      "Rus": "Рискованный"
+      "Rus": "Рискованно"
     }
   },
   {
@@ -1055,6 +1069,18 @@
     "Texts": {
       "Eng": "SYSTEM",
       "Rus": "СИСТЕМА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/systemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SYSTEM NAME",
+      "Rus": "НАЗВАНИЕ СИСТЕМЫ"
     }
   },
   {
@@ -1198,7 +1224,7 @@
     },
     "Texts": {
       "Eng": "THIS IS A VERY NICE SPACE OBJECT",
-      "Rus": ""
+      "Rus": "ЭТО ОЧЕНЬ КЛАССНЫЙ КОСМИЧЕСКИЙ ОБЪЕКТ"
     }
   },
   {
@@ -1653,7 +1679,8 @@
         "/gui/clusterinfo/children/inner/children/view/caption",
         "/gui/systeminfo/children/inner/children/view/caption",
         "/objectInfoBox/bookmarkButtonCaption/unexplored",
-        "/systemInfoBox/viewButtonCaption/disabled"
+        "/systemInfoBox/viewButtonCaption/disabled",
+        "/systemTooltip/exploredLabel/unexplored"
       ]
     },
     "Texts": {
@@ -1694,7 +1721,7 @@
     },
     "Texts": {
       "Eng": "Unreal",
-      "Rus": "Нереальный"
+      "Rus": "Нереально"
     }
   },
   {
@@ -1708,6 +1735,18 @@
     "Texts": {
       "Eng": "VIEW",
       "Rus": "ПЕРЕЙТИ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/systemTooltip/exploredLabel/explored"
+      ]
+    },
+    "Texts": {
+      "Eng": "VISITED",
+      "Rus": "ПОСЕЩЕНО"
     }
   },
   {
@@ -1899,7 +1938,7 @@
     },
     "Texts": {
       "Eng": "dangerous",
-      "Rus": "опасность"
+      "Rus": "опасно"
     }
   }
 ]

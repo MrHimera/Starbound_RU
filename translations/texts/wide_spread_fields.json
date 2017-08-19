@@ -100,6 +100,11 @@
         "/tout/default/default/0",
         "/welcome/default/default/0"
       ],
+      "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
+        "/scenes/art10/text",
+        "/scenes/art13/options/0/0",
+        "/scenes/hockey2/text"
+      ],
       "items/materials/black.matitem": [
         "/description",
         "/florandescription",
@@ -308,6 +313,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "items/generic/mechparts/horn/mechhornrubberduck.item": [
+        "/description"
+      ],
+      "objects/themed/retroscifi/retroscifidresser/retroscifidresser.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A timeless classic.",
+      "Rus": "Классика любого времени."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "biomes/surface/alien.biome": [
         "/friendlyName"
       ],
@@ -460,6 +480,26 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "npcs/story/baron.npctype": [
+        "/npcname"
+      ],
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/additionalBallista/2",
+        "/radioMessages/bossDefeated/2",
+        "/radioMessages/finalWaveComplete/2",
+        "/radioMessages/firstAirforce/2",
+        "/radioMessages/firstBallista/2",
+        "/radioMessages/wallAttacked/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baron",
+      "Rus": "Барон"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "biomes/surface/barren.biome": [
         "/friendlyName"
       ],
@@ -470,6 +510,22 @@
     "Texts": {
       "Eng": "Barren",
       "Rus": "Бесплодный"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/penguinmission1/labels/name"
+      ],
+      "quests/outpost/penguin1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bartender",
+      "Rus": "Бармен"
     }
   },
   {
@@ -575,6 +631,36 @@
     "Texts": {
       "Eng": "Door",
       "Rus": "Дверь"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/mechunlock/labels/name",
+        "/mechupgrade2/labels/name",
+        "/penguinmission2/labels/name"
+      ],
+      "quests/outpost/mechunlock.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/mechupgrade1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/penguin2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dr. Akaggy",
+      "Rus": "Доктор Акаги"
     }
   },
   {
@@ -781,6 +867,21 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
+        "/scenes/song1/options/0/0"
+      ],
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can help!",
+      "Rus": "Я могу помочь!"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Мне нечего тебе ссказать."
     ],
@@ -847,6 +948,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "hunger.config": [
+        "/1/up/0"
+      ],
+      "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
+        "/scenes/art16/options/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this a joke?",
+      "Rus": "Ты шутишь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "biomes/surface/jungle.biome": [
         "/friendlyName"
       ],
@@ -857,6 +973,32 @@
     "Texts": {
       "Eng": "Jungle",
       "Rus": "Джунгли"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/koichioutpost.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/koichi.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/koichihologram.npctype": [
+        "/npcname"
+      ],
+      "radiomessages/missions.radiomessages": [
+        "/avianmission06/senderName",
+        "/tentaclemission-bottom2/senderName",
+        "/tentaclemission-destruction2/senderName"
+      ],
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/reinforcements/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Koichi",
+      "Rus": "Коичи"
     }
   },
   {
@@ -895,6 +1037,35 @@
     "Texts": {
       "Eng": "Matter Manipulator",
       "Rus": "Манипулятор материи"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/labels/name",
+        "/arena2/labels/name",
+        "/arena3/labels/name"
+      ],
+      "npcs/outpost/nuruoutpost.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/nuru.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/nurufight.npctype": [
+        "/npcname"
+      ],
+      "radiomessages/missions.radiomessages": [
+        "/avianmission04/senderName",
+        "/avianmission05/senderName",
+        "/hylotlmission03b/senderName",
+        "/tentaclemission-destruction3/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nuru",
+      "Rus": "Нуру"
     }
   },
   {
@@ -951,7 +1122,7 @@
     },
     "Texts": {
       "Eng": "Rock Chest",
-      "Rus": "Каменный нагрудник"
+      "Rus": "Каменный сундук"
     }
   },
   {
@@ -1148,7 +1319,7 @@
     },
     "Texts": {
       "Eng": "Spooky Pumpkin Head",
-      "Rus": "Жуткая Тыквенная Голова"
+      "Rus": "Жуткая тыквенная голова"
     }
   },
   {
@@ -1292,6 +1463,24 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "npcs/outpost/tonauacoutpost.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/tonauac.npctype": [
+        "/npcname"
+      ],
+      "radiomessages/missions.radiomessages": [
+        "/tentaclemission-bossroom2/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tonauac",
+      "Rus": "Тонауак"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/itemdescriptions/mm.itemdescription": [
         "/toolLabel/value"
       ],
@@ -1374,6 +1563,22 @@
     "Texts": {
       "Eng": "What have you done!?",
       "Rus": "Что ты наделал!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/3/glitchEmotedText"
+      ],
+      "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
+        "/scenes/kasumi1a/options/1/0",
+        "/scenes/kasumi1b/options/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who are you?",
+      "Rus": "Кто ты?"
     }
   },
   {

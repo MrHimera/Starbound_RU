@@ -152,7 +152,7 @@
     },
     "Texts": {
       "Eng": "Cooking Ingredient",
-      "Rus": "Кулинарные ингридиенты"
+      "Rus": "Кулинарный ингредиент"
     }
   },
   {
@@ -164,7 +164,7 @@
     },
     "Texts": {
       "Eng": "Crafting Material",
-      "Rus": "Материал для создания"
+      "Rus": "Ремесленный материал"
     }
   },
   {
@@ -224,7 +224,7 @@
     },
     "Texts": {
       "Eng": "Decorative",
-      "Rus": "Декорации"
+      "Rus": "Декорация"
     }
   },
   {
@@ -308,7 +308,7 @@
     },
     "Texts": {
       "Eng": "Fishing Lure",
-      "Rus": "Рыболовные приманки"
+      "Rus": "Рыболовная приманка"
     }
   },
   {
@@ -369,18 +369,6 @@
     "Texts": {
       "Eng": "Generic",
       "Rus": "Стандартный"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/categories.config": [
-        "/labels/grenadeLauncher"
-      ]
-    },
-    "Texts": {
-      "Eng": "Grenade Launcher",
-      "Rus": "Гранатомет"
     }
   },
   {
@@ -477,7 +465,7 @@
     },
     "Texts": {
       "Eng": "Mech Component",
-      "Rus": "Деталь Меха"
+      "Rus": "Деталь меха"
     }
   },
   {
@@ -489,7 +477,7 @@
     },
     "Texts": {
       "Eng": "Medicine",
-      "Rus": "Лекарства"
+      "Rus": "Медицина"
     }
   },
   {
@@ -621,7 +609,7 @@
     },
     "Texts": {
       "Eng": "Rail Platform",
-      "Rus": "Железнодорожная платформа"
+      "Rus": "Рельсовая платформа"
     }
   },
   {
@@ -633,7 +621,7 @@
     },
     "Texts": {
       "Eng": "Rail Point",
-      "Rus": "Железнодорожный пункт"
+      "Rus": "Рельсовый пункт"
     }
   },
   {
@@ -993,7 +981,7 @@
     },
     "Texts": {
       "Eng": "Wire",
-      "Rus": "Провод"
+      "Rus": "Электроника"
     }
   }
 ]
