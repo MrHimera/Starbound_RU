@@ -362,7 +362,7 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 127,
+      "quest.config.json": 149,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 101,
@@ -386,7 +386,7 @@
     "generic": {
       "shared_lightbulb.json": 1
     },
-    "glitchEmotes.json": 385,
+    "glitchEmotes.json": 434,
     "help.config.json": 62,
     "hunger.config.json": 14,
     "interface": {
@@ -484,7 +484,7 @@
         "sbvn": {
           "games": {
             "beautifulattempt": {
-              "beautifulattempt.sbvn.json": 95
+              "beautifulattempt.sbvn.json": 96
             }
           },
           "sbvngui.config.json": 2
@@ -1054,7 +1054,7 @@
                 "deathbomb.weaponability.json": 0
               },
               "erchiusbeam": {
-                "erchiusbeam.weaponability.json": 0
+                "erchiusbeam.weaponability.json": 1
               },
               "erchiuslauncher": {
                 "erchiuslauncher.weaponability.json": 0
@@ -1063,7 +1063,7 @@
                 "explosiveburst.weaponability.json": 0
               },
               "explosiveshot": {
-                "explosiveshot.weaponability.json": 0
+                "explosiveshot.weaponability.json": 1
               },
               "fuelairtrail": {
                 "fuelairtrail.weaponability.json": 0
@@ -1079,10 +1079,10 @@
                 "lance.weaponability.json": 1
               },
               "markedshot": {
-                "markedshot.weaponability.json": 0
+                "markedshot.weaponability.json": 1
               },
               "piercingshot": {
-                "piercingshot.weaponability.json": 0
+                "piercingshot.weaponability.json": 1
               },
               "rocketburst": {
                 "rocketburst.weaponability.json": 0
@@ -3479,11 +3479,11 @@
             "mechhornlacucha.item.json": 0,
             "mechhornrobotvoice.item.json": 0,
             "mechhornrubberduck.item.json": 0,
-            "mechhornsportshorn.item.json": 0,
-            "mechhornsteamwhistle.item.json": 0,
-            "mechhorntoy.item.json": 0,
-            "mechhorntrain.item.json": 0,
-            "mechhorntruck.item.json": 0
+            "mechhornsportshorn.item.json": 2,
+            "mechhornsteamwhistle.item.json": 2,
+            "mechhorntoy.item.json": 2,
+            "mechhorntrain.item.json": 2,
+            "mechhorntruck.item.json": 2
           },
           "legs": {
             "mechlegsarc.item.json": 2,
@@ -4567,7 +4567,7 @@
       }
     },
     "names": {
-      "ancientgreek.namesource.json": 581,
+      "ancientgreek.namesource.json": 609,
       "aztec.namesource.json": 138,
       "russianfemale.namesource.json": 81,
       "russianmale.namesource.json": 73,
@@ -5796,27 +5796,27 @@
           "avianstoragelocker.object.json": 1
         },
         "avianswitchhidden": {
-          "avianswitchhidden1.object.json": 0,
+          "avianswitchhidden1.object.json": 1,
           "avianswitchhidden2.object.json": 0
         },
         "avianwaterlight": {
           "avianwaterlight.object.json": 0
         },
         "bardoor2": {
-          "bardoor2.object.json": 2,
-          "bardoor2sideways.object.json": 0
+          "bardoor2.object.json": 6,
+          "bardoor2sideways.object.json": 8
         },
         "bardoor3": {
           "bardoor3.object.json": 0
         },
         "bigjar1": {
-          "bigjar1.object.json": 0
+          "bigjar1.object.json": 8
         },
         "birdaltar2": {
           "birdaltar2.object.json": 9
         },
         "birdbed": {
-          "birdbed.object.json": 0
+          "birdbed.object.json": 8
         },
         "birddoor": {
           "birddoor.object.json": 3
@@ -6124,7 +6124,7 @@
           "tribaltable.object.json": 0
         },
         "tribalwallcabinet": {
-          "tribalwallcabinet.object.json": 0
+          "tribalwallcabinet.object.json": 8
         },
         "wateremblem": {
           "wateremblem.object.json": 8
@@ -11547,7 +11547,7 @@
       "shared_liquidsensor": {
         "shared_liquidsensor.object.json": 2
       },
-      "shared_ove.json": 0,
+      "shared_ove.json": 1,
       "shared_piano": {
         "shared_piano.object.json": 1
       },
@@ -13244,7 +13244,7 @@
           "add_object_to_house.questtemplate.json": 23,
           "barter.questtemplate.json": 7,
           "borrow.questtemplate.json": 24,
-          "bribe.questtemplate.json": 4,
+          "bribe.questtemplate.json": 15,
           "build_home.questtemplate.json": 24,
           "capture_pet.questtemplate.json": 46,
           "collect_fine.questtemplate.json": 8,
