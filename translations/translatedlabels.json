@@ -1221,8 +1221,8 @@
           },
           "whip": {
             "abilities": {
-              "energyorb.weaponability.json": 0,
-              "whipcrack.weaponability.json": 0
+              "energyorb.weaponability.json": 1,
+              "whipcrack.weaponability.json": 1
             },
             "energywhip.activeitem.json": 2,
             "intestinewhip.activeitem.json": 3,
@@ -4255,7 +4255,7 @@
           "monopus.monstertype.json": 1
         },
         "parasprite": {
-          "parasprite.monstertype.json": 0
+          "parasprite.monstertype.json": 2
         },
         "paratail": {
           "paratail.monstertype.json": 2
@@ -4402,10 +4402,10 @@
       "shared_.monstertype.json": 1,
       "space": {
         "astrofae": {
-          "astrofae.monstertype.json": 0
+          "astrofae.monstertype.json": 2
         },
         "chiropterror": {
-          "chiropterror.monstertype.json": 0
+          "chiropterror.monstertype.json": 2
         },
         "cosmostache": {
           "cosmostache.monstertype.json": 0
@@ -7658,19 +7658,19 @@
         },
         "hylotl": {
           "hylotllibaryposter1": {
-            "hylotllibraryposter1.object.json": 0
+            "hylotllibraryposter1.object.json": 9
           },
           "hylotlmusicbox": {
-            "hylotlmusicbox.object.json": 0
+            "hylotlmusicbox.object.json": 8
           },
           "librarycodex": {
-            "librarycodex.object.json": 0
+            "librarycodex.object.json": 8
           },
           "librarymodel": {
-            "librarymodel.object.json": 0
+            "librarymodel.object.json": 8
           },
           "pagodaaquarium": {
-            "pagodaaquarium.object.json": 0
+            "pagodaaquarium.object.json": 8
           }
         }
       },
